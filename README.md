@@ -1,5 +1,6 @@
 # CN LAB PROGRAMS
 
+Lab Manual PDF reference: [CN LAB MANUAL.pdf](https://github.com/TharunBalaji2004/cn-lab-programs/files/12909803/CN.LAB.MANUAL.pdf)
 
 | Exp No| Exp Title | Exp Programs |
 | :----: | :---------: | :-----: |
